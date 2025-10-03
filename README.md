@@ -76,6 +76,10 @@ The goal was to design a **Data Warehouse**, perform ETL to transform raw data, 
 
 ---
 
+## 🔗 Live Dashboard
+[View on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiZTVmYjM1MDEtZWQ3Yy00NGY1LWEyNGItOTE2ZTBiOWUzMjZmIiwidCI6IjQyYzJjNGE0LTcyMTEtNGEwNC1hNTk4LWEyN2Q1YWIzMjY4MSJ9)
+
+
 ## 📌 Author  
 👤 **Akshay Kumar S**  
 - Aspiring **Data Analyst** | SQL | Power BI | Python | Excel  
